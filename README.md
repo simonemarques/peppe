@@ -1,2 +1,2 @@
 # peppe
-Clube online de relacionamentos anônimos
+Clube online de entretenimento
