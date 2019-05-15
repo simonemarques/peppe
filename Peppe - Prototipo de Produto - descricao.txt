@@ -1,73 +1,82 @@
-PROTÓTIPO DE PRODUTO: APLICATIVO 
+PROTÃ“TIPO DE PRODUTO: APLICATIVO 
 RESUMO DE INSIGHT
 
-Descrição: Clube online de relacionamentos anônimos
-OBJETIVO: Conectar comunidades de interesses em entretenimento e socialização de forma anônima.
-JUSTIFICATIVA: O público jovem (18-25 anos) tem poucas opções de diversão em cidades do interior como Garibaldi e região. As turmas se encontram em locais como bares e conversam com cuidado, por receio de exposição. O produto em questão oferece a oportunidade de se expressarem de forma livre. Sob a forma de “clube”, atrai pela novidade, inicialmente pela exclusividade e por resolver uma demanda existente: a falta de espaço para compartilhar determinados assuntos ou apenas “zoar” de forma divertida. Também existe pouco espaço para o flerte e descontração sem o risco de falatórios. Este aplicativo, sob a forma de clube, abre espaço a estas manifestações, como um “Tinder gringo”, com regras de conduta e respeito, ao mesmo tempo em que é um portal de comunicação e diversão.
-Denominação
-Peppe (ícone: pimenta vermelha) 
+DescriÃ§Ã£o: Clube online de relacionamentos anÃ´nimos
+OBJETIVO: Conectar comunidades de interesses em entretenimento e socializaÃ§Ã£o de forma anÃ´nima.
+
+JUSTIFICATIVA: O pÃºblico jovem (18-25 anos) tem poucas opÃ§Ãµes de diversÃ£o em cidades do interior. As turmas se encontram em locais como bares e conversam com cuidado, por receio de exposiÃ§Ã£o. O produto em questÃ£o oferece a oportunidade de se expressarem de forma livre. 
+
+Sob a forma de â€œclubeâ€, atrai pela novidade, inicialmente pela exclusividade e por resolver uma demanda existente: a falta de espaÃ§o para compartilhar determinados assuntos ou apenas â€œzoarâ€ de forma divertida. TambÃ©m existe pouco espaÃ§o para o flerte e descontraÃ§Ã£o sem o risco de falatÃ³rios. Este aplicativo, sob a forma de clube, abre espaÃ§o a estas manifestaÃ§Ãµes, como um â€œTinder gringoâ€, com regras de conduta e respeito, ao mesmo tempo em que Ã© um portal de comunicaÃ§Ã£o e diversÃ£o.
+
+DenominaÃ§Ã£o
+Peppe (Ã­cone: pimenta vermelha) 
+
+COMO FUNCIONA: O anonimato liberta a socializaÃ§Ã£o. Um nickname identifica o usuÃ¡rio.
 
 Slogan de exemplo: 
-Seja sócio V1P do maior clube virtual da região da Serra!
-Você é pepper?
+Seja sÃ³cio V1P do maior clube virtual da sua regiÃ£o!
+VocÃª Ã© pepper?
 KEYWORDS
 Inesperado, desconhecido, surpreendente, divertido. Provocativo. Quente, disruptivo, ousado. 
 PRODUTO
 Aplicativo
-Mercado: entretenimento, informação, humor, paquera, zoeira.
-Público-alvo: jovens de 18 a 25 anos
-Tópicos de conteúdo: Comportamento, vida noturna, lifestyle, tendências, dicas de diversão, absurdos, trend topics diários. Um “BuzzFeed” tipicamente regional.
+Mercado: entretenimento, informaÃ§Ã£o, humor, paquera, zoeira.
+PÃºblico-alvo: jovens de 18 a 25 anos
+TÃ³picos de conteÃºdo: Comportamento, vida noturna, lifestyle, tendÃªncias, dicas de diversÃ£o, absurdos, trend topics diÃ¡rios. Um â€œBuzzFeedâ€ tipicamente regional.
 
 IDENTIDADE VISUAL
-Peppe, de pimenta (com um “p” a mais para vocacionar “pepper”, de usuário).
-Universo de significados que pode ser associado à imagem para fins de produto.
-Conteúdos sugeridos
-Snaps – trends do que estão falando hoje pelas redes (TOP 10).
-Drops – notícias básicas de 3 linhas sobre temas de interesse do público.
-Auto – “O oro dos piá!”
-O que acontece de “sério” nas cidades que possam interessar a esse público. Estilo “BuzzFeed”.
-Tudo certo – Perrengues e relamações em Garibaldi e Carlos Barbosa.
-Gurias – As mina com a palavra.
-Rolê - Onde vai ser hoje – locais se cadastram e atualizam online.
-Style – Moda, estilo, tendências.
-Zoeira – Fofoca, memes.
-Morri – Imagem do dia nas redes.
-Date – Azaração anônima ou não em chat (criar regras, perfis, moderação).
-AVC – Nós não esquemos o que tu fez ontem à noite (ver legalidade).
-Frase do dia – Enviada pelos “sócios” (público) ou por editores do produto. Escutou no bar, no banheiro, na rua; ouviu da tia, da sogra, da vó? Conta!
-HOTS – Conteúdo para assinantes. Parceria com blog de perfil afim para utiização de imagens, vídeos e mais.
+Peppe, de pimenta (com um â€œpâ€ a mais para vocacionar â€œpepperâ€, de usuÃ¡rio).
+Universo de significados que pode ser associado Ã  imagem para fins de produto.
+ConteÃºdos sugeridos
+Snaps â€“ trends do que estÃ£o falando hoje pelas redes (TOP 10).
+Drops â€“ notÃ­cias bÃ¡sicas de 3 linhas sobre temas de interesse do pÃºblico.
+Auto â€“ â€œO oro dos piÃ¡!â€
+O que acontece de â€œsÃ©rioâ€ nas cidades que possam interessar a esse pÃºblico. Estilo â€œBuzzFeedâ€.
+Tudo certo â€“ Perrengues e relamaÃ§Ãµes em Garibaldi e Carlos Barbosa.
+GuriasÂ â€“ As mina com a palavra.
+RolÃª - Onde vai ser hoje â€“ locais se cadastram e atualizam online.
+Style â€“ Moda, estilo, tendÃªncias.
+Zoeira â€“ Fofoca, memes.
+Morri â€“ Imagem do dia nas redes.
+Date â€“ AzaraÃ§Ã£o anÃ´nima ou nÃ£o em chat (criar regras, perfis, moderaÃ§Ã£o).
+AVC â€“ NÃ³s nÃ£o esquemos o que tu fez ontem Ã  noite (ver legalidade).
+Frase do dia â€“ Enviada pelos â€œsÃ³ciosâ€ (pÃºblico) ou por editores do produto. Escutou no bar, no banheiro, na rua; ouviu da tia, da sogra, da vÃ³? Conta!
+HOTS â€“ ConteÃºdo para assinantes. Parceria com blog de perfil afim para utiizaÃ§Ã£o de imagens, vÃ­deos e mais.
 
-ESTRATÉGIAS INICIAIS
+ESTRATÃ‰GIAS INICIAIS
 Buzz
-Definir “colmeia”: organizar as pessoas em grupos com algo em comum. É importante iniciar determinando a colméia e depois a ideia. Pode-se partir do inverso, definindo o problema ou a solução a uma demanda.
-Definir vetores e conectores: pessoas-chave que vão difundir a ideia no boca a boca de forma “espontânea”.
+Definir â€œcolmeiaâ€: organizar as pessoas em grupos com algo em comum. Ã‰ importante iniciar determinando a colmÃ©ia e depois a ideia. Pode-se partir do inverso, definindo o problema ou a soluÃ§Ã£o a uma demanda.
+Definir vetores e conectores: pessoas-chave que vÃ£o difundir a ideia no boca a boca de forma â€œespontÃ¢neaâ€.
+
 Fase BETA
-Lançar o ícone com hashtags e frases em pontos estratégicos, causando curiosidade.
-Definir um “time out”: o produto é lançado com um tempo definido de existência, com contagem regressiva. Aos primeiros usuários, algum brinde. “Você tem apenas 30 dias para conhecer o poder da pimenta”.
-São enviados convites via Facebook a alguns jovens de Garibaldi, Carlos Barbosa e região, que sejam formadores de opinião ou influenciadores de tendências entre os seus amigos e colegas.
-A marca começa a aparecer por meio de página no Facebook, como algo exclusivo e pouco conhecido.
-A marca convida mais alguns jovens a participar, a curtir, a interagir. A ideia é emoção, cativar esse público por meio de conteúdos-chave e táticas de guerrilha.
+LanÃ§ar o Ã­cone com hashtags e frases em pontos estratÃ©gicos, causando curiosidade.
+Definir um â€œtime outâ€: o produto Ã© lanÃ§ado com um tempo definido de existÃªncia, com contagem regressiva. Aos primeiros usuÃ¡rios, algum brinde. â€œVocÃª tem apenas 30 dias para conhecer o poder da pimentaâ€.
+SÃ£o enviados convites via Facebook a formadores de opiniÃ£o ou influenciadores de tendÃªncias entre os seus amigos e colegas.
+A marca comeÃ§a a aparecer por meio de pÃ¡gina no Facebook, como algo exclusivo e pouco conhecido.
+A marca convida mais alguns jovens a participar, a curtir, a interagir. A ideia Ã© emoÃ§Ã£o, cativar esse pÃºblico por meio de conteÃºdos-chave e tÃ¡ticas de guerrilha.
 
 BRAND
-Pimenta - Ícone a ser desenhado.
-Peppe/V1P – Nome do aplicativo
-Pepper/V1PER – Nome do sócio
+Pimenta - Ãcone a ser desenhado.
+Peppe/V1P â€“ Nome do aplicativo
+Pepper/V1PER â€“ Nome do sÃ³cio
 Definir o nome da comunidade
 Estatuto de Regras de Bem-viver e normas de conduta.
 
 VALOR AGREGADO & VANTAGENS
-Comentários, reclamações: rendem conteúdos e pautas que, de outra forma, não se saberia. Informações para serem analisadas e utilizadas como estratégia de target no produto ou em outros canais (comportamento jovem). O produto é útil como captador de tendências e auxilia em táticas para conteúdos que podem ser aproveitados como dados netgnográficos em outros canais digitais ou off. 
-Tais dados servem também como capital simbólico, que podem direcionar onde apostar para converter conteúdo em investimento.
-O produto pode, ainda, receber anúncios voltados a esse público-alvo nas áreas de educação (Vestibular), moda, veículos, alimentação, etc., seja sob a forma tradicional ou diluídos em conteúdos úteis.
-Parcerias com blogueiros podem enriquecer os conteúdos, sem a necessidade de ter um produtor de material full-time.
-O produto inicial tem baixo custo e não oferece risco, desde que não seja associado a nenhum veículo de comunicação/empresa.
+ComentÃ¡rios, reclamaÃ§Ãµes: rendem conteÃºdos e pautas que, de outra forma, nÃ£o se saberia. InformaÃ§Ãµes para serem analisadas e utilizadas como estratÃ©gia de target no produto ou em outros canais (comportamento jovem). O produto Ã© Ãºtil como captador de tendÃªncias e auxilia em tÃ¡ticas para conteÃºdos que podem ser aproveitados como dados netgnogrÃ¡ficos em outros canais digitais ou off. 
+Tais dados servem tambÃ©m como capital simbÃ³lico, que podem direcionar onde apostar para converter conteÃºdo em investimento.
+O produto pode, ainda, receber anÃºncios voltados a esse pÃºblico-alvo nas Ã¡reas de educaÃ§Ã£o (Vestibular), moda, veÃ­culos, alimentaÃ§Ã£o, etc., seja sob a forma tradicional ou diluÃ­dos em conteÃºdos Ãºteis.
+Parcerias com blogueiros podem enriquecer os conteÃºdos, sem a necessidade de ter um produtor de material full-time.
+O produto inicial tem baixo custo e nÃ£o oferece risco, desde que nÃ£o seja associado a nenhum veÃ­culo de comunicaÃ§Ã£o/empresa.
 
-CONSIDERAÇÕES
-Insight inicial para futuro brainstorming e avaliação de viabilidade.
-Necessidade de moderação e averiguação de legislação.
+*O APP tambÃ©m pode oferecer descontos em eventos e produtos para este target.*
+
+CONSIDERAÃ‡Ã•ES
+Insight inicial para futuro brainstorming e avaliaÃ§Ã£o de viabilidade.
+Necessidade de moderaÃ§Ã£o e averiguaÃ§Ã£o de legislaÃ§Ã£o.
 
 _______
 
 Simone Marques
-Especialista em Mídias Digitais
+Especialista em MÃ­dias Digitais
 (51) 99812-5353
